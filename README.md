@@ -57,7 +57,7 @@ Building software that doesn't break. Hunting bugs that shouldn't exist. 🔍
 ```
 ✍️  writing   ░░  COBOL → Python migrations
 🐛  hunting   ░░  HackerOne · Bugcrowd
-📦  shipping  ░░  Mandi · NobrainerAcademy · NitroGarage
+📦  shipping  ░░  Nanduti.bio · alivioparatudolor
 📚  studying  ░░  Burp Suite Practitioner
 ```
 
