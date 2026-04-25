@@ -1,20 +1,19 @@
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-           ░█▀▀░█░█░▄█░█░░░█░░░█▀▀░▄█░█▀▄░▀▀█
-           ░█░░░█▀█░░█░█░░░█░░░█░░░░█░█░█░░▄▀
-           ░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀░▀▀░░▀▀▀
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ██████╗██╗  ██╗ ██╗██╗     ██╗      ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝██║  ██║███║██║     ██║     ██╔════╝██╔═████╗██╔══██╗╚════██║
+██║     ███████║╚██║██║     ██║     ██║     ██║██╔██║██║  ██║    ██╔╝
+██║     ██╔══██║ ██║██║     ██║     ██║     ████╔╝██║██║  ██║   ██╔╝
+╚██████╗██║  ██║ ██║███████╗███████╗╚██████╗╚██████╔╝██████╔╝   ██║
+ ╚═════╝╚═╝  ╚═╝ ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝    ╚═╝
 ```
 
-> **「コードを書く者」** — *the one who writes code*
+> 🥷 **「コードを書く者」** — *the one who writes code*
 >
-> Indie hacker. Vibe coder. Shipping from `🇵🇾`.
+> Indie hacker · Vibe coder · Shipping from 🇵🇾
 
 ---
 
-## 第一章 ・ ABOUT
+## 🌸 第一章 ・ ABOUT
 
 ```
 ┌─────────────────────────────────────────┐
@@ -27,15 +26,16 @@
 └─────────────────────────────────────────┘
 ```
 
-I bridge **mainframes** and **AI**. COBOL by day, Claude API by night.
-Building software that doesn't break. Hunting bugs that shouldn't exist.
+I bridge **mainframes** and **AI** 🤖🏛️
+COBOL by day, Claude API by night.
+Building software that doesn't break. Hunting bugs that shouldn't exist. 🔍
 
 ---
 
-## 第二章 ・ STACK
+## ⚔️ 第二章 ・ STACK
 
 ```
-   MAINFRAME       │   AI / DEV         │   SECURITY
+🏛️  MAINFRAME      │  🤖  AI / DEV       │  🛡️  SECURITY
    ─────────       │   ────────         │   ────────
    COBOL           │   Claude API       │   Burp Suite
    Oracle PL/SQL   │   PyTorch          │   Nuclei
@@ -43,7 +43,7 @@ Building software that doesn't break. Hunting bugs that shouldn't exist.
    C / Assembly    │   Convex           │   Nmap
    AS/400          │   FastAPI          │   Kali Linux
                    │                    │
-   QA              │   INFRA            │   INDIE
+🧪  QA             │  ⚙️  INFRA          │  🚀  INDIE
    ──              │   ─────            │   ─────
    Pytest          │   Docker           │   Vibe Coding
    Selenium        │   Terraform        │   MVP > Perfect
@@ -52,18 +52,18 @@ Building software that doesn't break. Hunting bugs that shouldn't exist.
 
 ---
 
-## 第三章 ・ NOW
+## 🌙 第三章 ・ NOW
 
 ```
-▸ writing  ░░ COBOL → Python migrations
-▸ hunting  ░░ HackerOne · Bugcrowd
-▸ shipping ░░ Mandi · NobrainerAcademy · NitroGarage
-▸ studying ░░ Burp Suite Practitioner
+✍️  writing   ░░  COBOL → Python migrations
+🐛  hunting   ░░  HackerOne · Bugcrowd
+📦  shipping  ░░  Mandi · NobrainerAcademy · NitroGarage
+📚  studying  ░░  Burp Suite Practitioner
 ```
 
 ---
 
-## 第四章 ・ CONTACT
+## 📡 第四章 ・ CONTACT
 
 ```
        ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -82,3 +82,5 @@ Building software that doesn't break. Hunting bugs that shouldn't exist.
 
            build · break · ship · repeat
 ```
+
+🥷✨
